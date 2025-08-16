@@ -20,3 +20,4 @@ openai
 langchain_groq
 streamlit
 sentence-transformers
+duckduckgo-search
